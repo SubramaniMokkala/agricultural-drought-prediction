@@ -161,8 +161,8 @@ This system addresses critical research questions:
 
 **Subramani Mokkala**
 - 🎓 B.Tech in Computer Science - Data Science, KG Reddy College of Engineering
-- 📧 Email: [subramanimokkala@gmail.com]
-- 🔗 LinkedIn: [[Subramani Mokkala](https://www.linkedin.com/in/subramani-mokkala-727683245/)]
+- 📧 Email: subramanimokkala@gmail.com
+- 🔗 LinkedIn: [Subramani Mokkala](https://www.linkedin.com/in/subramani-mokkala-727683245/)
 
 ## 📄 License
 
